@@ -1,2 +1,3 @@
-# Kalu
-Hello 
+apt update
+apt upgared
+apt install 
